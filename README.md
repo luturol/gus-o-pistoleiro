@@ -90,7 +90,7 @@ Este é o repositório onde contém o GDD para o jogo que será desenvolvido par
 
 ### Pitch
 
-Será um jogo que se passa no velho oeste onde o personagem principal Gus é um pistoleiro que está setenciado a morte por seus crimes cometidos. O crime cometido foi flertar com a filha do xerife no bar local da cidade de Westland. Em Westland há 3 gangues poderosas que aterrorizam os turistas e os pessoas da cidade, a [gangue Boomer](#a-gangue-boomer), a gangue dos Pungilistas e a gangue do Botânico. Será o dever de Gus coletar as recompensas desses criminosos para se livrar da morte.
+Será um jogo que se passa no velho oeste onde o personagem principal Gus é um pistoleiro que está setenciado a morte por seus crimes cometidos. O crime cometido foi flertar com a filha do xerife no bar local da cidade de Westland. Em Westland há 3 gangues poderosas que aterrorizam os turistas e os pessoas da cidade, a [gangue Boomer](#a-gangue-boomer), a gangue dos Pungilistas e a [gangue do Botânico](#a-gangue-do-botânico). Será o dever de Gus coletar as recompensas desses criminosos para se livrar da morte.
 
 ### Dialogue System
 
@@ -98,4 +98,9 @@ Um sistema de diálogo que irá apresentar as palavras aos poucos para ser poss�
 
 ### A gangue Boomer
 
-Formada por seu capitão Ang. Conhecido por falar com sua arma e seu tiro fazer uma curva e voltar para sua arma. Ninguém entende como isso funciona, porém, ele logo ficou conhecido em Westland por seu boomer"Ang" fatal. Composta por bandidos locais que gostam de incomodar nos bares locais.
+Formada por seu capitão Ang. Conhecido por falar com sua arma e seu tiro fazer uma curva e voltar para sua arma. Ninguém entende como isso funciona, porém, ele logo ficou conhecido em Westland por seu boomer"Ang" fatal. Composta por bandidos locais que gostam de incomodar nos bares locais. Recompensa: $10.000
+
+### A gangue do Botânico
+
+Formada por seu capitão o Fritz, o Botânico conhecido por suas balas letais que contém sementes de plantas que crescem numa velocidade extraordinária e que acabam comendou ou ferindo ainda mais a pessoa que tomou seu tiro. Tornando seu tiro letal. É um botânico que fez experimentos com plantas para conseguir conter o calor dos desertos do oeste, porém seus experimentos acabaram machucando pessoas e as pessoas o viram como um louco e acabaram o condenando. Então, para sobreviver a perseguição e não ir para execução, Fritz, adicionou sementes de suas queridas plantas nas suas balas para elas usarem o corpo das pessoas ou onde quer que fossem parar para seu desenvolvimento próprio. Entrou para a máfia e logo formou sua própria gangue. Temido pelo país inteiro. Recompensa: $50.000
+
