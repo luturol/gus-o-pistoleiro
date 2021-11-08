@@ -111,9 +111,17 @@ Será um jogo que se passa no velho oeste onde o personagem principal Gus é um 
 
 ---
 
+### Gus, o Pistoleiro
+
+Em inglês Gus, the Gunslinger. É um cara ordinário que possui uma mira boa e um bom gatilho. Extrovertido e brincalhão, mas não tão aventureiro e briguento quanto um pistoleiro deve ser.
+
 ### A gangue Boomer
 
 Formada por seu capitão Ang. Conhecido por falar com sua arma e seu tiro fazer uma curva e voltar para sua arma. Ninguém entende como isso funciona, porém, ele logo ficou conhecido em Westland por seu boomer"Ang" fatal. Composta por bandidos locais que gostam de incomodar nos bares locais. Recompensa: $10.000
+
+### A gangue do Pungilistas
+
+É uma gangue formada por lutadores do submundo de Westlands. Possuem a fama de um soco ser que nem um tiro de tão poderoso que é. São rápidos com seus movimentos e possuem bastante resistência. Pode encontrar eles em muitos bares clandestinos, onde só ricos e aqueles que querem uma diversão diferenciada vão. Dizem que pra entrar no ringue é preciso entrar para a gangue e respeitar as regras da gangue. Quem quebra uma das regras nunca mais é visto em Westlands. A primeira regra é: nunca fale sobre a gangue dos Pungilistas. Recompensa: $35.000 
 
 ### A gangue do Botânico
 
