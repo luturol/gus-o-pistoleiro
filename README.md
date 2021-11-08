@@ -90,7 +90,7 @@ Este é o repositório onde contém o GDD para o jogo que será desenvolvido par
 
 ### Pitch
 
-Será um jogo que se passa no velho oeste onde o personagem principal Gus é um pistoleiro que está setenciado a morte por seus crimes cometidos. O crime cometido foi flertar com a filha do xerife no bar local da cidade de Westland. Em Westland há 3 gangues poderosas que aterrorizam os turistas e os pessoas da cidade, a [gangue Boomer](###A-gangue-Boomer), a gangue dos Pungilistas e a gangue do Botânico. Será o dever de Gus coletar as recompensas desses criminosos para se livrar da morte.
+Será um jogo que se passa no velho oeste onde o personagem principal Gus é um pistoleiro que está setenciado a morte por seus crimes cometidos. O crime cometido foi flertar com a filha do xerife no bar local da cidade de Westland. Em Westland há 3 gangues poderosas que aterrorizam os turistas e os pessoas da cidade, a [gangue Boomer](#a-gangue-boomer), a gangue dos Pungilistas e a gangue do Botânico. Será o dever de Gus coletar as recompensas desses criminosos para se livrar da morte.
 
 ### Dialogue System
 
