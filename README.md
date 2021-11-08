@@ -105,7 +105,7 @@ Este é o repositório onde contém o GDD para o jogo que será desenvolvido par
 
 --- 
 
-Será um jogo que se passa no velho oeste onde o personagem principal Gus é um pistoleiro que está setenciado a morte por seus crimes cometidos. O crime cometido foi flertar com a filha do xerife no bar local da cidade de Westland. Em Westland há 3 gangues poderosas que aterrorizam os turistas e os pessoas da cidade, a [gangue Boomer](#a-gangue-boomer), a gangue dos Pungilistas e a [gangue do Botânico](#a-gangue-do-botânico). Será o dever de Gus coletar as recompensas desses criminosos para se livrar da morte.
+Será um jogo que se passa no velho oeste onde o personagem principal Gus é um pistoleiro que está setenciado a morte por seus crimes cometidos. O crime cometido foi flertar com a filha do xerife no bar local da cidade de Westland. Em Westland há 3 gangues poderosas que aterrorizam os turistas e os pessoas da cidade, a [gangue Boomer](#a-gangue-boomer), a [gangue dos Pungilistas](#a-gangue-do-pungilista) e a [gangue do Botânico](#a-gangue-do-botânico). Será o dever de Gus coletar as recompensas desses criminosos para se livrar da morte.
 
 ## Storytelling
 
@@ -117,15 +117,27 @@ Em inglês Gus, the Gunslinger. É um cara ordinário que possui uma mira boa e 
 
 ### A gangue Boomer
 
-Formada por seu capitão Ang. Conhecido por falar com sua arma e seu tiro fazer uma curva e voltar para sua arma. Ninguém entende como isso funciona, porém, ele logo ficou conhecido em Westland por seu boomer"Ang" fatal. Composta por bandidos locais que gostam de incomodar nos bares locais. Recompensa: $10.000
+Formada por seu capitão Ang. Conhecido por falar com sua arma e seu tiro fazer uma curva e voltar para sua arma. Ninguém entende como isso funciona, porém, ele logo ficou conhecido em Westland por seu boomer"Ang" fatal. Composta por bandidos locais que gostam de incomodar nos bares locais. 
+
+Recompensa: $10.000
+
+Loot: Boomerang gun, atira um projétil que faz uma curva podendo atingir duas vezes o mesmo alvo. Pode dar dobro de dano, pouca munição
 
 ### A gangue do Pungilistas
 
-É uma gangue formada por lutadores do submundo de Westlands. Possuem a fama de um soco ser que nem um tiro de tão poderoso que é. São rápidos com seus movimentos e possuem bastante resistência. Pode encontrar eles em muitos bares clandestinos, onde só ricos e aqueles que querem uma diversão diferenciada vão. Dizem que pra entrar no ringue é preciso entrar para a gangue e respeitar as regras da gangue. Quem quebra uma das regras nunca mais é visto em Westlands. A primeira regra é: nunca fale sobre a gangue dos Pungilistas. Recompensa: $35.000 
+É uma gangue formada por lutadores do submundo de Westlands. Possuem a fama de um soco ser que nem um tiro de tão poderoso que é. São rápidos com seus movimentos e possuem bastante resistência. Pode encontrar eles em muitos bares clandestinos, onde só ricos e aqueles que querem uma diversão diferenciada vão. Dizem que pra entrar no ringue é preciso entrar para a gangue e respeitar as regras da gangue. Quem quebra uma das regras nunca mais é visto em Westlands. A primeira regra é: nunca fale sobre a gangue dos Pungilistas. 
+
+Recompensa: $35.000 
+
+Loot: Chance de esquiva e tiros 2x mais rápidos com a arma básica
 
 ### A gangue do Botânico
 
-Formada por seu capitão o Fritz, o Botânico conhecido por suas balas letais que contém sementes de plantas que crescem numa velocidade extraordinária e que acabam comendou ou ferindo ainda mais a pessoa que tomou seu tiro. Tornando seu tiro letal. É um botânico que fez experimentos com plantas para conseguir conter o calor dos desertos do oeste, porém seus experimentos acabaram machucando pessoas e as pessoas o viram como um louco e acabaram o condenando. Então, para sobreviver a perseguição e não ir para execução, Fritz, adicionou sementes de suas queridas plantas nas suas balas para elas usarem o corpo das pessoas ou onde quer que fossem parar para seu desenvolvimento próprio. Entrou para a máfia e logo formou sua própria gangue. Temido pelo país inteiro. Recompensa: $50.000
+Formada por seu capitão o Fritz, o Botânico conhecido por suas balas letais que contém sementes de plantas que crescem numa velocidade extraordinária e que acabam comendou ou ferindo ainda mais a pessoa que tomou seu tiro. Tornando seu tiro letal. É um botânico que fez experimentos com plantas para conseguir conter o calor dos desertos do oeste, porém seus experimentos acabaram machucando pessoas e as pessoas o viram como um louco e acabaram o condenando. Então, para sobreviver a perseguição e não ir para execução, Fritz, adicionou sementes de suas queridas plantas nas suas balas para elas usarem o corpo das pessoas ou onde quer que fossem parar para seu desenvolvimento próprio. Entrou para a máfia e logo formou sua própria gangue. Temido pelo país inteiro. 
+
+Recompensa: $50.000
+
+Loot: Plantgun, invoca plantas para te ajudar ou envenena inimigos quando atingidos. Tiro lento, dano razoável
 
 ## Features
 
