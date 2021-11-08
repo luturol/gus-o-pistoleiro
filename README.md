@@ -90,12 +90,12 @@ Este é o repositório onde contém o GDD para o jogo que será desenvolvido par
 
 ### Pitch
 
-Será um jogo que se passa no velho oeste onde o personagem principal Gus é um pistoleiro que está setenciado a morte por seus crimes cometidos. O crime cometido foi flertar com a filha do xerife no bar local da cidade de Westland. Em Westland há 3 gangues poderosas que aterrorizam os turistas e os pessoas da cidade, a gangue Boomer, a gangue dos Pungilistas e a gangue do Botânico. Será o dever de Gus coletar as recompensas desses criminosos para se livrar da morte.
-
-### A gangue Boomer
-
-Formada por seu capitão Ang. Conhecido por falar com sua arma e seu tiro fazer uma curva e voltar para sua arma. Ninguém entende como isso funciona, porém, ele logo ficou conhecido em Westland por seu boomer"Ang" fatal. Composta por bandidos locais que gostam de incomodar nos bares locais.
+Será um jogo que se passa no velho oeste onde o personagem principal Gus é um pistoleiro que está setenciado a morte por seus crimes cometidos. O crime cometido foi flertar com a filha do xerife no bar local da cidade de Westland. Em Westland há 3 gangues poderosas que aterrorizam os turistas e os pessoas da cidade, a [gangue Boomer](###A-gangue-Boomer), a gangue dos Pungilistas e a gangue do Botânico. Será o dever de Gus coletar as recompensas desses criminosos para se livrar da morte.
 
 ### Dialogue System
 
 Um sistema de diálogo que irá apresentar as palavras aos poucos para ser possível ler melhor conforme o personagem vai falando e não apresentando todo o texto direto e aos poucos apresentando mais texto. No canto esquerdo terá um sprite mais detalhado do rosto da pessoa que está falando para ficar mais atrativo. Os diálogos ficarão na parte inferior da tela centralizado.
+
+### A gangue Boomer
+
+Formada por seu capitão Ang. Conhecido por falar com sua arma e seu tiro fazer uma curva e voltar para sua arma. Ninguém entende como isso funciona, porém, ele logo ficou conhecido em Westland por seu boomer"Ang" fatal. Composta por bandidos locais que gostam de incomodar nos bares locais.
