@@ -39,7 +39,7 @@ Este é o repositório onde contém o GDD para o jogo que será desenvolvido par
         - armas
         - bônus de dash 
         - vida extra
-1. Terá um item coletável que será apenas uma moeda
+1. Terá pelo menos um item coletável que será apenas uma moeda
 1. Terá pelo menos 3 fases com inimigos diferentes para enfrentar no decorrer da fase
     - Um desses inimigos pode ser considerado um mini boss com alguma habilidade bem parecida com a do boss
     - Os inimigos terão comportamentos parecidos com o do boss para o player ir se familiarizando com o comportamento do boss e como derrota-lo.
